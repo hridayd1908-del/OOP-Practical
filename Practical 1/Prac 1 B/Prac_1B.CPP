@@ -9,6 +9,7 @@
 	hrs = sec/3600;
 	min = sec/60;
 	cout<<"Hours: "<<hrs<<endl;
-	cout<<"Minutes: "<<min<endl;
+	cout<<"Minutes: "<<min<<endl;
 	getch();
+
  }
