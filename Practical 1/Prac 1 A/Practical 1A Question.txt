@@ -1,0 +1,1 @@
+Write a C++ Program to calculate volume of cube, volume of rectangle and volume of cone.

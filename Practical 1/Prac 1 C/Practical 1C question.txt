@@ -1,0 +1,2 @@
+Practical 1C 
+Write a c++ program to find greater of three numbers 
