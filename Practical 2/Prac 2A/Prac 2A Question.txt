@@ -1,0 +1,1 @@
+Write a C++ Program to generate all prime numbers between 1 and n.
