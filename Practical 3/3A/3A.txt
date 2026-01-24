@@ -1,0 +1,1 @@
+Write a c++ program to demonstarte object counting using a static member function

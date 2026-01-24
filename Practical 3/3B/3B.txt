@@ -1,0 +1,1 @@
+Write a c++ program to find the maximum of two values using a freind function.
